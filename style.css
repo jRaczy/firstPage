@@ -1,0 +1,27 @@
+.storyHeader {
+    background: green;
+    color: white;
+}
+
+.storyText {
+    background: green;
+    color: white;
+}
+
+.footerText {
+    background: red;
+    color: white;
+}
+
+.sauceHeader {
+    background: red;
+
+}
+
+.sauceText {
+    background: red
+}
+.menuHeader{
+    color: black
+    
+}
